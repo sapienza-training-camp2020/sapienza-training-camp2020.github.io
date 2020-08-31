@@ -2,14 +2,6 @@
 
 ## Training Camp Schedule 
 
-### Day 0: Self-study 
-
-| Topic  | Quiz | Notes |
-|--- |--- | --- |
-| [TensorFlow, Keras and deep learning, without a PhD (Sections 1 - 7)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist) | [link](https://forms.gle/85t1ZDoj4t9Xb8zW7) | - |
-| [TensorFlow, Keras and deep learning, without a PhD (Sections 8 - 15)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#7)| [link](https://forms.gle/YPCmHE3UwNFi5M178) | - |
-Note: please ask questions related to the self-study section of the courses on [Piazza](https://piazza.com/google/fall2020/tcse2020). 
-
 
 ### Day 1 
 
