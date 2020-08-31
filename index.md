@@ -37,4 +37,4 @@ Note: please ask questions about the material using the course webpage on [Piazz
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
 | Image captioning. Attention models in computer vision and NLP. | 10:00 - 11:30 | - | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), [Image captioning colab](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) | - | 
-| Announcement of the competition results. Short presentations by the competition winners. | 17:00 - 17:30 | - | - | - | 
+| Announcement of the Kaggle competition results. Short presentations by the competition winners. | 17:00 - 17:30 | - | - | - | 
