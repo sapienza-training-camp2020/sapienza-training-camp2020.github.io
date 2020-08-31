@@ -3,7 +3,7 @@ Sapienza University of Rome
 
 Instructors: Dr. Mykhaylo Andriluka, Alessandro Flaborea, Luca Franco
 
-Note: please ask questions about the course material using our webpage on [Piazza](https://piazza.com/google/fall2020/tcse2020) or using the mailling list.
+Note: please ask questions about the material using the course webpage on [Piazza](https://piazza.com/google/fall2020/tcse2020) or via the mailling list.
 
 ## Training Camp Schedule 
 
