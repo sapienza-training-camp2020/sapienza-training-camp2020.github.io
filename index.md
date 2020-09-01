@@ -20,22 +20,22 @@ Note: please ask questions about the material using the course webpage on [Piazz
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| Introduction to the training camp  | 10:00 - 10:30 | - | - | - | 
-| Computer vision and deep learning | 10:30 - 11:30| - | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc)| - | 
-| Introduction to the Kaggle competition | 13:30 - 14:00 | - | - | - | 
+| Introduction to the training camp  |<nobr>10:00 - 10:30</nobr>| - | - | - | 
+| Computer vision and deep learning |<nobr>10:30 - 11:30</nobr>| - | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc)| - | 
+| Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 
 
 ### Day 2 (Friday, 4th of September)
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| Neural Networks for Natural Language Processing (NLP) | 13:30 - 15:00 | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | - | 
+| Neural Networks for Natural Language Processing (NLP) |<nobr>13:30 - 15:00</nobr>| - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | - | 
 
 
 ### Day 3 (Saturday, 5th of September)
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| Image captioning. Attention models in computer vision and NLP. | 10:00 - 11:30 | - | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), [Image captioning colab](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) | - | 
+| Image captioning. Attention models in computer vision and NLP. |<nobr>10:00 - 11:30</nobr>| - | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), [Image captioning colab](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb) | - | 
 | End of the Kaggle competition. | 16:00  | - | - | - | 
-| Announcement of the Kaggle competition results. Short presentations by the competition winners. | 17:00 - 17:30 | - | - | - | 
+| Announcement of the Kaggle competition results. Short presentations by the competition winners. |<nobr>17:00 - 17:30</nobr>| - | - | - | 
