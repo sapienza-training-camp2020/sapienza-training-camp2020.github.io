@@ -30,7 +30,7 @@ Note: please ask questions about the material using the course webpage on [Piazz
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| CNN Architectures: VGG, ResNet, Inception,MobileNet | <nobr>13:30 - 15:00</nobr> | - | - | - | 
+| CNN Architectures: VGG, ResNet, Inception, MobileNet | <nobr>13:30 - 15:00</nobr> | - | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) | - | 
 | Neural Networks for Natural Language Processing (NLP) | - | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | - | 
 
 
