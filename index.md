@@ -20,8 +20,10 @@ Note: please ask questions about the material using the course webpage on [Piazz
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| Introduction to the training camp  |<nobr>10:00 - 10:30</nobr>| - | - | - | 
-| Computer vision and deep learning |<nobr>10:30 - 11:30</nobr>| - | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc)| - | 
+| Introduction to the training camp  |<nobr>10:00 - 10:30</nobr>| [link](https://forms.gle/Ua95AdymnUn1XeJv7) | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | - | 
+| Neural networks recap  |<nobr>10:30 - 11:30</nobr>| [link](https://forms.gle/NXnaq7uSWEbHD6w16) | - | - | 
+| Convolutional neural networks | - | [link](https://forms.gle/BYMB2NEycXRvBZx56) | - | - | 
+| CNN Architectures: VGG, ResNet, Inception,MobileNet | - | [link](https://forms.gle/N1gEPVcfDwEYSXQ49) | - | - | 
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 
 
