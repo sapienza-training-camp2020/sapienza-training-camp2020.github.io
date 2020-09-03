@@ -23,7 +23,6 @@ Note: please ask questions about the material using the course webpage on [Piazz
 | Introduction to the training camp  |<nobr>10:00 - 10:30</nobr>| [link](https://forms.gle/Ua95AdymnUn1XeJv7) | [Machine learning with Tensorflow2](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning), Books: [Deep learning](https://www.deeplearningbook.org/), [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python#toc) | [link](day1_intro.pdf) | 
 | Neural networks recap  |<nobr>10:30 - 11:30</nobr>| [link](https://forms.gle/NXnaq7uSWEbHD6w16) | - | [link](day1_intro_nn.pdf) | 
 | Convolutional neural networks | - | [link](https://forms.gle/BYMB2NEycXRvBZx56) | - | [link](day1_cnn.pdf) | 
-| CNN Architectures: VGG, ResNet, Inception,MobileNet | - | [link](https://forms.gle/N1gEPVcfDwEYSXQ49) | - | - | 
 | Introduction to the Kaggle competition |<nobr>13:30 - 14:00</nobr>| - | - | - | 
 
 
@@ -31,7 +30,8 @@ Note: please ask questions about the material using the course webpage on [Piazz
 
 | Module | Time | Quiz | Additional material |  Notes |
 |--- |--- | --- | --- |  --- | 
-| Neural Networks for Natural Language Processing (NLP) |<nobr>13:30 - 15:00</nobr>| - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | - | 
+| CNN Architectures: VGG, ResNet, Inception,MobileNet | <nobr>13:30 - 15:00</nobr> | - | - | - | 
+| Neural Networks for Natural Language Processing (NLP) | - | - | [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf), [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)  | - | 
 
 
 ### Day 3 (Saturday, 5th of September)
